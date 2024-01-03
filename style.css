@@ -1,0 +1,66 @@
+.main
+{
+    height: 100px;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 10px;
+
+}
+
+.form{
+    
+    width: 250px;
+    height: 300px;
+ text-align: center;
+    border-radius: 10px;
+    padding: 50px;
+    margin-top: 5px;
+    border: 1px solid black;
+    margin-left: 25px;
+}
+input
+{
+    padding: 15px;
+    margin: 10px;
+    width: 85%;
+    line-height: 20px;
+}
+.login
+{
+    
+    width: 95%;
+    margin-left: 5px;
+    color: white;
+    background-color: blue;
+    border-radius: 6px;
+    padding: 10px;
+    line-height: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: pxblue;
+    line-height: 40px;
+}
+.newa
+{
+    background-color: green;
+    color: white;
+    margin: 5px;
+    width: 95%;
+    padding: 02%;
+    border-radius: 5px;
+    line-height: 25px;
+}
+.box
+{
+    display: flex;
+    margin-top: 15%;
+    margin-left: 10%;
+
+}
+h1
+{
+color: blue;
+font-size: 90px;
+}
